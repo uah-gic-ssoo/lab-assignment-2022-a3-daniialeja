@@ -151,4 +151,3 @@ int are_arguments_correct(int argc, char* argv[]) {
 
   return 1;
 }
-
